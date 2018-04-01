@@ -2,6 +2,7 @@
 This is the random name and number generator!
 
 I added a login system to it, so thats good, i think!?
+The Username and the Password is Admin Admin. 
 
 to use the program use the php files
 and the web page is only working for the index.php not for login.php: http://random.maltbywehner.co.uk/ contributed by:
