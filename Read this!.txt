@@ -1,1 +1,0 @@
-To use this you need a website, if you have one use the php file but if it doesn't show up i added some copies of different code languages
